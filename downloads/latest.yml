@@ -1,8 +1,8 @@
-version: 1.0.1
+version: 1.0.0
 files:
   - url: Crynth Cloud Setup.exe
-    sha512: 0jC880aW5k3tX++HgRU6MufROLuankDS8i8KygAsfJOleMVTIdUJODd7vabhYUSn2tbSKT14QtWpRqpDAjU2Vg==
-    size: 79043152
+    sha512: ZO6vi9K7zHBEcynjOtpXCI/+zfR+7EkOg+6Xh5cpNfcEkPc9UFPWuwSvB1oBU3T3taE6LWmIj5Hzq887Bkg5cA==
+    size: 79043051
 path: Crynth Cloud Setup.exe
-sha512: 0jC880aW5k3tX++HgRU6MufROLuankDS8i8KygAsfJOleMVTIdUJODd7vabhYUSn2tbSKT14QtWpRqpDAjU2Vg==
-releaseDate: '2026-04-19T17:11:10.628Z'
+sha512: ZO6vi9K7zHBEcynjOtpXCI/+zfR+7EkOg+6Xh5cpNfcEkPc9UFPWuwSvB1oBU3T3taE6LWmIj5Hzq887Bkg5cA==
+releaseDate: '2026-04-19T17:17:46.425Z'
