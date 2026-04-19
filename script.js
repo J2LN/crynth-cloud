@@ -24,5 +24,5 @@ setInterval(() => {
 
 // DOWNLOAD
 document.querySelector('.download-btn').onclick = () => {
-  window.open("https://ton-lien-download.com");
+  window.open("https://crynth-cloud.vercel.app/downloads/Crynth%20Cloud%20Setup.exe");
 };
